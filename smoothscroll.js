@@ -1,4 +1,4 @@
-function () {
+(function () {
 
 	// Scroll Variables (tweakable)
 	var defaultOptions = {
