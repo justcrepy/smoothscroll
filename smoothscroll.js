@@ -1,4 +1,4 @@
-$(document).ready(function () {
+(function ($,undefined) {
  
     // Scroll Variables (tweakable)
     var defaultOptions = {
@@ -541,4 +541,4 @@ $(document).ready(function () {
         addEvent("load", init);
     }
  
-})();
+})(jQuery);
