@@ -5,7 +5,7 @@ function () {
 
 		// Scrolling Core
 		frameRate: 300, // [Hz]
-		animationTime: 600, // [ms]
+		animationTime: 1000, // [ms]
 		stepSize: 100, // [px]
 
 		// Pulse (less tweakable)
