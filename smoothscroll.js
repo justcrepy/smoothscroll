@@ -6,7 +6,7 @@ function () {
 		// Scrolling Core
 		frameRate: 300, // [Hz]
 		animationTime: 1000, // [ms]
-		stepSize: 100, // [px]
+		stepSize: 1000, // [px]
 
 		// Pulse (less tweakable)
 		// ratio of "tail" to "acceleration"
